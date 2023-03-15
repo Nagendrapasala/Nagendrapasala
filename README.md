@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nagendra-pasala-184917105/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nagendra-pasala-184917105/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nagendra-pasala-184917105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nagendra-pasala-184917105/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/nagendrapasala11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nagendrapasala11" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nagendrapasala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nagendrapasala" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/nagendra_p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="nagendra_p" height="30" width="40" /></a>
