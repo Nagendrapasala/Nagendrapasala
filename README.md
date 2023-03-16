@@ -36,7 +36,7 @@
   <p>
   <h1>PolicyBazaar</h1>
   <p>It provides a digital platform - website and app - where users can compare insurance policies and other financial services from major insurance companies. The company is India's largest insurance aggregator, and has expanded its operations to the United Arab Emirates.</p>
-   <a href="https://idyllic-sherbet-f029be.netlify.app" target="blank"><p>Click here to visit this website</p></a>
+   <a href="https://6412f33dd9ab46118e46042f--idyllic-sherbet-f029be.netlify.app" target="blank"><p>Click here to visit this website</p></a>
   
   
   </p>
