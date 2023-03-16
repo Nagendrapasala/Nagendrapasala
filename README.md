@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Back-end(express,mongodb)**
 
-- 👨‍💻 All of my projects are available at [https://exquisite-medovik-61b8cc.netlify.app/](https://exquisite-medovik-61b8cc.netlify.app/)
+- 👨‍💻 You can look in to my Portfolio here [https://exquisite-medovik-61b8cc.netlify.app/](https://idyllic-sherbet-f029be.netlify.app)
 
 - 💬 Ask me about **react,redux,html,css,javascript,reactjs,MERN**
 
