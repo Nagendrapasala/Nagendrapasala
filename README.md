@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Back-end(express,mongodb)**
 
-- 👨‍💻 You can look in to my Portfolio here [https://exquisite-medovik-61b8cc.netlify.app/](https://idyllic-sherbet-f029be.netlify.app)
+- 👨‍💻 You can look in to my Portfolio here [https://exquisite-medovik-61b8cc.netlify.app/](https://nagendra-pasala-portfolio.netlify.app)
 
 - 💬 Ask me about **react,redux,html,css,javascript,reactjs,MERN**
 
@@ -25,25 +25,25 @@
   <p>
   <h1>BigBazaar</h1>
   <p>Big Basket is one of the largest online grocery super market in India. It was founded in 2011 by Hari Menon, VS Sudhakar, V S Ramesh, Vipul Parekh and Abhinay choudari. It has its headquarters in Bengaluru. It operates in more than 30 cities in India.</p>
-  <a href="https://6411c4c045f91b1cb5984fe4--idyllic-sherbet-f029be.netlify.app" target="blank"><p>Click here to visit this website</p></a>
+  <a href="https://bigbasket-clone1.netlify.app" target="blank"><p>Click here to visit this website</p></a>
   </p>
   <p>
   <h1>AJIO</h1>
   <p>AJIO, a fashion and lifestyle brand, is Reliance Retail's digital commerce initiative and is the ultimate fashion destination for styles that are handpicked, on trend and at prices that are the best you'll find anywhere.</p>
-  <a href="https://64119e4f9351de2c02c9f18f--idyllic-sherbet-f029be.netlify.app" target="blank"><p>Click here to visit this website</p></a>
+  <a href="https://ajio-clone1.netlify.app" target="blank"><p>Click here to visit this website</p></a>
 
   </p>
   <p>
   <h1>PolicyBazaar</h1>
   <p>It provides a digital platform - website and app - where users can compare insurance policies and other financial services from major insurance companies. The company is India's largest insurance aggregator, and has expanded its operations to the United Arab Emirates.</p>
-   <a href="https://idyllic-sherbet-f029be.netlify.app" target="blank"><p>Click here to visit this website</p></a>
+   <a href="https://superlative-marigold-7d87fb.netlify.app" target="blank"><p>Click here to visit this website</p></a>
   
   
   </p>
   <p>
   <h1>Swiggy</h1>
   <p>Swiggy is an Indian online food ordering and delivery platform.Swiggy is India’s leading on-demand delivery platform with a tech-first approach to logistics and a solution-first approach to consumer demands. With a presence in 500 cities across India, partnerships with hundreds of thousands of restaurants, an employee base of over 5000, a 2 lakh+ strong independent fleet of Delivery Executives.</p>
-   <a href="https://6412bfa3facaca45f612bbd5--idyllic-sherbet-f029be.netlify.app" target="blank"><p>Click here to visit this website</p></a>
+   <a href="https://swiggy-clone2.netlify.app" target="blank"><p>Click here to visit this website</p></a>
  
   </p>
   
